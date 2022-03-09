@@ -1,0 +1,14 @@
+<W>You've got <R>guts<R> to say that!
+
+<W>Bring it on so that I can <R>end your life<R> as fast as possible!
+
+<W>I will <R>end your life<R> for this!
+
+This is your last <R>warning<R>!
+<W,R>Flee as far as you can<R> because I won't hold myself back any longer!
+
+My <R>last words<R> have been set in stone for <W>many years now...
+And yet nobody has ever had the joy of hearing them... <W>and this <R>won't change<R> for you!
+
+You should never have come this far...
+<W>I will <R>punish<R> you with <Co=St6>Death<RE>!

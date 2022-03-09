@@ -1,0 +1,20 @@
+<W,R>Ha...<R> as if!
+There were <W,R>four friends<R> who worked very hard<W> on this and they got... <W>a tiny, tiny bit <R>overworked<R> at the end!
+And since <W>this <R>voice<R> in my <R>head<R,W> wants to get some <R>sleep<R>... <W>Here you have it!
+<R,TS=0.15,W>THE END
+
+<W,R>Sorry<R>, Little One!<W> But the <R>puppet master<R> said it's the <W>end of the show for today. <R,TD=0.3>Sooo...
+<R,TS=0.15,W>THE END
+
+<W,R>Wish on<R>, Little One...
+The guy who <R>possesses<R> me is getting tired from <W>writing dialogues <R>all day<R>!
+There you go... <W>See you!
+<R,TS=0.15,W>THE END
+
+<W,R>My <R>soul<R> tells me to make you <R>shut up<R>,<W> since it's tired!
+<W>Here you go!
+<R,TS=0.15,W>THE END
+
+You wanted <W>something <R>special<R>...
+The <W,R>mind<R> behind my <R>mind<R> told my <R>mind<W,R> that it's ok if you get this...
+<R,TS=0.15,W>THE END

@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: d136c40872f034b4dbcca09c10743c20
+ModelImporter:
+  serializedVersion: 20101
+  internalIDToNameTable:
+  - first:
+      74: 3372178213561930094
+    second: Hammer_AttackForward1_Windup
+  - first:
+      74: -5728664537222120940
+    second: Hammer_AttackForward1_Attack
+  - first:
+      74: 6224366219106887084
+    second: Hammer_AttackForward1_Recovery
+  - first:
+      74: -1173870407593225950
+    second: Hammer_AttackForward2_Windup
+  - first:
+      74: 4877108281423657266
+    second: Hammer_AttackForward2_Attack
+  - first:
+      74: -8711292622156218003
+    second: Hammer_AttackForward2_Recovery
+  - first:
+      74: -1268098268444885056
+    second: Hammer_HeavyAttackForward_Windup_FromCombo
+  - first:
+      74: 730748185680391360
+    second: Hammer_HeavyAttackForward_Windup_FromNeutral
+  - first:
+      74: -8518910466789377679
+    second: Hammer_HeavyAttackForward_Attack
+  - first:
+      74: -1614113593128057831
+    second: Hammer_HeavyAttackForward_Recovery
+  - first:
+      74: 1802333698453996769
+    second: Hammer_Uppercut_Windup
+  - first:
+      74: 4823169874296472641
+    second: Hammer_Uppercut_Attack
+  - first:
+      74: -131067495674868084
+    second: Hammer_Uppercut_Recovery
+  - first:
+      74: -3766091409115556041
+    second: Hammer_HeavyUppercut_Windup_FromCombo
+  - first:
+      74: -7829702064675949208
+    second: Hammer_HeavyUppercut_Windup_FromNeutral
+  - first:
+      74: -3727748041725541653
+    second: Hammer_HeavyUppercut_Attack
+  - first:
+      74: 719079968603410758
+    second: Hammer_HeavyUppercut_Recovery
+  - first:
+      74: 3413132329589329858
+    second: Hammer_StompAttack_Windup
+  - first:
+      74: -9171075940782024662
+    second: Hammer_StompAttack_Attack
+  - first:
+      74: 2376892234680257468
+    second: Hammer_StompAttack_Recovery
+  - first:
+      74: 6295318201653573791
+    second: Hammer_Parry_Windup
+  - first:
+      74: -2741374560267165353
+    second: Hammer_Parry_Attack
+  - first:
+      74: 8533429909192427443
+    second: Hammer_Parry_Recovery
+  externalObjects: {}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,11 @@
+<W>Hahaha!
+Guess that made you <W>a bit <R>angry<R>!
+
+<W,R>Oh no<R>, how <R>scary<R>...|<W,S,R,TD=0.3>Not<R>!
+
+Anyway, good luck with <W>whatever you are trying to <R>achieve<R>.
+
+What are you going to do?
+<W,R>Scare me?
+
+Maybe that was a <W>bit to much for him to <R>handle<R>...

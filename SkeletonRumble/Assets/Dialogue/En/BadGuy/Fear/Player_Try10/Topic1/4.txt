@@ -1,0 +1,14 @@
+<W,TS=0.1>I have feelings...<RE> <S=0.5,TS=0.15>I have no feelings...<RE> <W,TS=0.2>I have feelings...<RE>|The flower told me that I have feelings!
++20 Elegance
+
+It hurts... Believe me, it hurts really bad! ...Just joking! After I bathed in dragon blood, I got invincible!
++20 Anger
+
+The magic that brings me back is of the powerful kind!|It restores me completely every time I come back!
++20 Fear
+
+After I helped a unicorn, flew to god, and beat Dracula by sucking all of his blood out, I became partially invincible.
++20 Elegance
+
+Believe in my custom god and you too will be resurrected as a <Co=St5>Skeleton<RE> without pain!
++20 Arrogance

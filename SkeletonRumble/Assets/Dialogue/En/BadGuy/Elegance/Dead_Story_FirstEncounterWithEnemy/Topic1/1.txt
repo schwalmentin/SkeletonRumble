@@ -1,0 +1,14 @@
+I told you...
+<W>I'm way too strong for you!
+
+Give up, <Co=St1>Little One<RE>!
+Now that you've <W>seen my strength<W> you should accept your defeat!
+
+<W>Better luck next time...
+If there is any!
+
+<W>Oops, I hope I didn't go too harsh on you...
+Well, now it's too late.
+
+<W>Goodbye, <Co=St1>Little One<RE>.
+I'll build you a <Co=St7>Grave<RE> if you promise to stay dead...

@@ -1,0 +1,11 @@
+<TS=0.2>Well done, <Co=St1,W>Little One<RE>!
+<TS=0.2>Why didn't you show me your strength a bit earlier?
+
+<TS=0.2>Why were you hiding your strength <Co=St1,W>Little One<RE>?
+
+<TS=0.2>You've got me!
+<TS=0.2,W>You have beaten me on a whole new level...
+
+<TS=0.2,W>This is a full-on victory for you!
+
+<TS=0.2,W>This is my greatest loss yet!

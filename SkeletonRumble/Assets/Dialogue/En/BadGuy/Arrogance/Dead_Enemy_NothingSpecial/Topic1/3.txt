@@ -1,0 +1,14 @@
+<TS=0.2>You've <W>earned<W> it!
+<TS=0.2>You've really <W>earned<W> your <R>victory<R>!
+
+<TS=0.2,R>Remember me... <W>please!
+<TS=0.2>As someone who gave you <R>strength<R> after all of those years!
+
+<TS=0.2>Don't regret what you've done...
+<TS=0.2>Live with it and learn from it <Co=St1>Little One<RE>!
+
+<TS=0.2>Those were some good <R,W>last hits<R,W>!
+<TS=0.2>Remember what you've learned and never lose your optimism!
+
+<TS=0.2>I think I <W>like your <R>attitude<R>...
+<TS=0.2>In another life we could have been <R>friends<R>...

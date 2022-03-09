@@ -1,0 +1,13 @@
+<W,R>Congratulations<R> on your new <Co=St4>Air Combo Highscore<RE,W>...
+<W>Let's <R>celebrate<R> it with your <Co=St6>Death<RE>!
+
+<W,R>Too bad<W,R> this nice <Co=St4>Air Combo<RE> of yours <W>didn't go anywhere...
+At least it's <W>a new <Co=St4>Highscore<RE>!
+
+The new <Co=St4>Air Combo Highscore<RE> surely gives you <W,R>bragging rights<W,R>, but it <W>doesn't help you when you still <Co=St6>Die<RE>!
+
+<W>You've made it!<W> At least you've got a new <Co=St4>Highscore<RE>!
+Apart from that <W,R>defeating<R> me<W> still seems to be <W>out of reach for you...
+
+That great <Co=St4>Air Combo<RE> was... <R>great<R>?|<W,R>I think...<W,R>
+Still, you should focus on <Co=St8>Skills<RE> <W>to <R>defeat<R> me<W> instead of breaking your <Co=St4>Highscore<RE> if you ever want to get out of this <W>repeated <R>fighting hell<R>!

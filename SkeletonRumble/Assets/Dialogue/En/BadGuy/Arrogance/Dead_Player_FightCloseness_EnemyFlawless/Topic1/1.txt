@@ -1,0 +1,13 @@
+<W>What a <R>waste of time<R>...
+You couldn't even <W,R>hit<R> me!
+
+At least <W,R>try<R> to hit me<W> next time!
+
+Give up <Co=St1>Little One<RE>!
+Our current <W,Co=St8>Skill<RE> <W>gap<W> is just to <R>high<R>!
+<W>You didn't even land a <R>single hit<R>!
+
+With those current <Co=St8>Skills<RE> of yours, <W>you're <R>never<R> going to hit me!
+
+It is <R>sad<R> to see you <W>fail so <R>miserably<R>...
+<W>You didn't even <R>hit me once<R>!

@@ -1,0 +1,14 @@
+What's your problem with a fast-moving target?|Are you too old to follow me around?
++15 Arrogance
+
+Are you scared?|Yes, that's it!|You're scared of my moves, aren't you?
++15 Fear
+
+You need to gotta go faster if you ever want to catch me!
++15 Anger
+
+Caught you!
++15 Elegance
+
+Hmm... it's not fun to get hurt, so I thought I could just <Co=St8>Dodge<RE> the whole time!|Plus I get some bonus points for annoying you!
++15 Anger

@@ -1,0 +1,65 @@
+Possible Letters:
+ABCDEFGHIJKLMNOPQRSTUVWXYZ
+abcdefghijklmnopqrstuvwxyz
+ .,?!"'-
+
+Commands:
+
+<	= Command Start
+>	= Command End
+<,>	= Multiple Commands in the same Brackets
+=	= If the Effekt can be Adjusted then the new Value of the effect will be assigned after the "=" sign
+|	= New Line in the same Text Box
+\n	= New Text Box
+
+
+RE	= Reset Effects
+B	= Bold
+W	= Waving
+S	= Shaking		(Type: float		| 0f - 3.402823E+38f)	Default = 3, light shaking = 1, hard shaking = 5
+R	= Rainbow Colors
+FS	= Font Size 		(Type: int 		| 1 - 2147483647)	Default = 35, tiny text = 20, text that gets smaller = 25 then 20 then 15
+Co	= Color 		(Type: RGB ColorCode	| #000000 - #FFFFFF (optional with alpha: #00000000 - #FFFFFFFF)) or "St" + Number for the Standardized Colors
+TS	= Typing Speed		(Type: float		| 0f - 3.402823E+38f)	Default = 0.05, slow = 0.2, dramatically slow = 0.5, extra fast = 0.02
+TD	= Typing Delay		(Type: float		| 0f - 3.402823E+38f)	Short pause = 0.3, long pause = 0.5 (The Pauses need to increase in length when the TypingSpeed is slowed down in order to reach the same effect!)
+
+!!! The Commands Are Case Sensitive !!!
+
+
+
+Manipulating the Emotions:
++0 Arrogance
++0 Fear
++0 Anger
++0 Elegance
+ -> Standards: +15 for the first answer and an additional +5 for every following answer
+
+Emotion Distribution (Does not account for the rate at which certain dialoges are repeated):
+Arrogance	+++++++++
+Fear		+++++++++
+Anger		+++++++++
+Elegance	++++++++++
+
+
+
+Color Coding:
+
+Standard Font Color = #BEB9DD
+BG color = #322F3F
+
+St1 = Little One
+St2 = Resurrection
+St3 = 10/50/100/Anniversary
+St4 = Air Combo/Highscore
+St5 = Bone/Skull/Skeleton
+St6 = Die/Death/Dying/Kill
+St7 = Grave
+St8 = Skills/Dash/Dodge/Jumping/Parry
+St9 = Hammer/Sword/Weapon
+
+Schreibregeln der Emotionen:
+Neutral = The default personality of the enemy
+Anger = Often CAPS, Bold and Shaking
+Arrogance = Often Rainbow and Waving Text (When he sais something bad to the player)
+Elegance/Self confident = Often Waving Text (When he sais something good to the player)
+Fear = Stuttering (H-hello... I-I want t-to m-arry you!)

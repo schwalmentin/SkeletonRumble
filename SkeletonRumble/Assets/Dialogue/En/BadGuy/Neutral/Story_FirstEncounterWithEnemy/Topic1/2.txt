@@ -1,0 +1,14 @@
+Don't worry, I'm just another undead warrior seeking your <Co=St6>Death<RE>!
++15 Fear
+
+How nice of you to ask!|I'm an ancient warrior and I would like to <Co=St6>Kill<RE> you please!
++15 Anger
+
+From undead warrior to undead warrior...|Could you <Co=St6>Die<RE> please?
++15 Elegance
+
+My <Co=St5>Bones<RE> feel a bit tired from the long journey...|Would you mind <Co=St6>Dying<RE> to give me my human body back?
++15 Arrogance
+
+What's up you old pile of <Co=St5>Bones<RE>?|Do you happen to cling to your life? Because if not I would like to have it...
++15 Anger

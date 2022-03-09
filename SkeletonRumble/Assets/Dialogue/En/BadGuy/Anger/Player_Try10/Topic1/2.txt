@@ -1,0 +1,14 @@
+Could you articulate yourself a bit more clearly?
++15 Anger
+
+What?
++15 Arrogance
+
+I'm sorry?|What did the fine <Co=St5>Skeleton<RE> gentleman want from me?
++15 Elegance
+
+Excuse me?|Could you speak a bit clearer, <Co=St5>Mr. Mc Skeleton<RE>?
++15 Elegance
+
+Might I ask you to speak your fine words again?
++15 Elegance

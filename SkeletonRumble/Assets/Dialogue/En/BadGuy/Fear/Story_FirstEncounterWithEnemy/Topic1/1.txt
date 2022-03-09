@@ -1,0 +1,14 @@
+H-hello there, <Co=St1>S-stranger<RE>!
+M-might I ask who you a-are?
+
+G-greetings <Co=St1>Traveler<RE>!
+What can I d-do for you?
+
+H-hello there <Co=St1>T-traveler<RE>!
+W-would you be so kind to s-share some of your s-stories with me?
+
+Ooh, I haven't seen a new f-face around here for q-quite some time.
+Would you m-mind exchanging some w-words with me <Co=St1>S-stranger<RE>?
+
+S-someone I haven't seen b-before!
+Do you want s-something from this r-region <Co=St1>Stranger<RE>?

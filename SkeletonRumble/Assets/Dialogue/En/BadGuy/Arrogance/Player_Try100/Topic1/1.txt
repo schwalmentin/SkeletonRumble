@@ -1,0 +1,22 @@
+I am impressed!
+No really, this should be the <Co=St3>100th<RE> time you are <R>trying<R> to <R>defeat<R> me!
+<W>If I counted correct...
+I wonder, why haven't you given up yet?
+
+<W>Come on...<W> If I <R>counted correct<R> this will be the <Co=St3>100th<RE> time you are trying to <R>defeat<R> me.
+I know you are somewhat <R>stubborn<R> but <W>why are you doing this to yourself?
+
+<W,R>Congratulations!
+This should be the <Co=St3>100th<RE> time you managed to come back after being <R>defeated<R> by me!
+
+<W>Oh my god!
+This has been our <Co=St3>99th<RE> time <R>fighting<R>!
+No wait...
+<W>The <Co=St3>100th<RE>...
+<W>It has been our <Co=St3>100th<RE> <W,R>fight<R> and you still won't give up?
+
+<W>Welcome to the <R>legendary<R> <Co=St3>100th<RE> <W,R>fight<R>!
+In the right corner is the <R>undefeated champion<R> <Co=St5>“SKELETON_1”<RE>!
+And in the left corner his opponent <Co=St1>“TheWeakLittleOne”<RE> will be <R>crushed again<R>!
+<W>Let's ask him together!!!
+<W>Why are you still insisting on going on?

@@ -1,0 +1,13 @@
+<W,R>Phew!<RE>|That was <W>a <R>close<R> one!
+You were <R>fighting<W,R> better than ever!
+
+That was a <W>good fight!
+Too bad you <W,R>didn't make it<R> in the end!
+
+I was <W>sweating<W> this fight!
+Well, at least as much <W,R>sweating<R> as someone undead<W> is able to!
+
+<W>Ouch!
+It got to be closer than I would like but this was <W>nothing more than a little <R>slip up<R>!
+
+Just because <W>it got a bit close<W> doesn't mean you've <W,R>suddenly got the <R>upper hand<W,R>, <Co=St1>Little One<RE>!

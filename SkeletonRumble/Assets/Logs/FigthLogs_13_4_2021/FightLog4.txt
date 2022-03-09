@@ -1,0 +1,11 @@
+Enemy_Health_At_End_Of_Battle: 100
+Enemy_Phase_At_End_Of_Battle: 2
+Player_Health_At_End_Of_Battle: 0
+Parries_Per_Phase: 2
+Jumps_Per_Phase: 2
+Dashes_Per_Phase: 3
+Walljumps_Per_Phase: 0
+Longest_Air_Combo: 5
+Phase_1_Duration_Realtime: 19,24176
+Phase_2_Duration_Realtime: 0
+Fight_Duration_Realtime: 19,24176

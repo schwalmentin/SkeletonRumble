@@ -1,0 +1,12 @@
+<TS=0.2>W-well done, <Co=St1>Little O-one<RE>!
+<TS=0.2>W-why didn't you spare me by s-showing me your strength earlier?
+
+<TS=0.2>W-why were you hiding your s-strength <Co=St1>Little One<RE>?
+
+<TS=0.2>You've got m-me!
+<TS=0.2,FS=20>It's f-finally over...
+
+<TS=0.2>I-I can't anymore...
+<TS=0.2>T-this is y-your victory!
+
+<TS=0.2>W-with this l-loss... it's finally over...

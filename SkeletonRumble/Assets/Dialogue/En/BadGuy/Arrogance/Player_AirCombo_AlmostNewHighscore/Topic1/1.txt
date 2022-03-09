@@ -1,0 +1,10 @@
+<W,R>Almost <Co=St1>Little One<RE>, you almost got a new <Co=St4>Air Combo Highscore<RE>.
+
+<W>Ooooh, that was a <R>close one<R>.
+You almost got a new <Co=St4>Highscore<RE> for your <Co=St4>Air Combo<RE> back there.
+
+<W>Well, <R>better luck<R> next time for breaking that <Co=St4>Air Combo Highscore<RE>!
+
+It was <W>a nice try<W> for <R>breaking<R> that <Co=St4>Air Combo Highscore<RE> of yours!
+
+Too bad you <W>couldn't <R>crack<R> your <Co=St4>Air Combo Highscore<RE>!

@@ -1,0 +1,14 @@
+Pardon?|What do you mean?
++15 Arrogance
+
+Oh, so you noticed?
++15 Elegance
+
+Hmmm...|I wonder what you are talking about...
++15 Anger
+
+I have absolutely no idea of what you're talking about...
++15 Anger
+
+...
++15 Fear

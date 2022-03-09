@@ -1,0 +1,13 @@
+<TS=0.2>You've done it, <W,Co=St1>Little One<RE>!
+<TS=0.2>You have proven yourself to be <W>stronger than me<W>!
+
+<TS=0.2>That was a good fight <W,Co=St1>Little One<RE>!
+<TS=0.2>A good last fight...
+
+<TS=0.2>It was a worthy <W>last fight<W>!
+<TS=0.2>And you happened to be on top!
+
+<TS=0.2,W>So, this is the end...
+
+<TS=0.2,W>Go on!
+<TS=0.2,W>Finish it<W> with a determined look on your face!

@@ -1,0 +1,14 @@
+Hello there, <Co=St1>Stranger<RE>!
+Might I ask who you are?
+
+Greetings <Co=St1>Traveler<RE>!
+What can I do for you?
+
+Hello there <Co=St1>Traveler<RE>!
+Would you be so kind to share some of your travel stories with me?
+
+Ooh, I haven't seen a new face around here for quite some time.
+Would you mind exchanging some words with me <Co=St1>Stranger<RE>?
+
+Someone I haven't seen before!
+Do you want something from this region <Co=St1>Stranger<RE>?

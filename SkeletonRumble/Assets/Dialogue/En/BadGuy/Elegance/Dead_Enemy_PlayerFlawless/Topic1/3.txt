@@ -1,0 +1,10 @@
+<TS=0.2>If it weren't for such a sinister cause, then <W>I would be proud of you<W>!
+
+<TS=0.2,W>I'm honored since you've mastered the <Co=St8>Skill<RE> <TS=0.2,W>of fighting<W> just for me!
+
+<TS=0.2,W>It's an honorable <Co=St6>Death<RE> <TS=0.2, W>to fall by such strength...
+
+<TS=0.2>I can't really argue with that...
+<TS=0.2,W>You've proven to be strong after all.
+
+<TS=0.2>At least I can say <W>I gave my best...

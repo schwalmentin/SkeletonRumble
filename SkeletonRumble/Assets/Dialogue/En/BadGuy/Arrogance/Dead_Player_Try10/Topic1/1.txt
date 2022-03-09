@@ -1,0 +1,13 @@
+You should be proficiently powered out now, so... <W>stop <R>returning<R> for once...
+<W>That was a <R>threat<R>!
+
+Do you like the <Co=St7>Graves<RE>?
+<W>Because now you're getting your <Co=St3>10th<RE> one...
+
+<W>Aren't you <R>tired<R> of <Co=St6>Dying<RE> <W>already?
+
+You should know by now that <W>you <R>can't compete<R> with me.
+<W>So, stop coming back already!
+
+<W,R>Stay dead<R> for once...
+You might not like <W>what happens if you <R>come back<R>!

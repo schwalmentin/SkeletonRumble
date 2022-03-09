@@ -1,0 +1,14 @@
+Urgh... Fine, fine!|But still, I won't spare you!
++25 Elegance
+
+Ahh, yes!|Now I am definitely going to <Co=St6>Kill<RE> you!
++25 Fear
+
+I won't!|Now I am going to make this hurt more than ever!
++25 Fear
+
+I will calm down after I defeated you!
++25 Anger
+
+I am CALM!|Calm enough to make your loss painful at least!
++25 Arrogance

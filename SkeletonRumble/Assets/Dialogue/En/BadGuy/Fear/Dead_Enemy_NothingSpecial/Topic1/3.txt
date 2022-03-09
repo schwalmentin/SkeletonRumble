@@ -1,0 +1,13 @@
+<TS=0.2>Y-you have... earned it!
+
+<TS=0.2>A-at least<TS=0.5>...<RE> <TS=0.2>r-remember me<TS=0.5>...<RE> <TS=0.2>please!
+<TS=0.2>A-as s-someone who<TS=0.5>... <RE> <TS=0.2>confirmed your strength...
+
+<TS=0.2>D-don't regret it when you're d-done...
+<TS=0.2>Live with it and learn from it <Co=St1>Little One<RE>!
+
+<TS=0.2>Those were some good last hits!
+<TS=0.2>Remember what you've learned and never lose your optimism!
+
+<TS=0.2>I think I like your attitude...
+<TS=0.2>In another life we could have been friends...

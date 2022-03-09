@@ -1,0 +1,14 @@
+That's a <R>sharp<R> <Co=St9>Sword<RE> you've got there!
+<W>Would you mind showing it to me?
+
+I'm wondering whose <Co=St9>Sword<RE> is <R>sharper<R>.
+<W>Mine or yours?
+
+That's a nice <R>blade<R> you've got there, <Co=St1>Little One<RE>!
+<W>I wonder how <R>sharp<R> it is?
+
+That's a <R>pointy tip<R> and a <R>clean blade<R> you've got there.
+<W>Do you mind showing its <R>sharpness<R> to me?
+
+<W>That <Co=St9>Sword<RE> <W>looks just as <R>unpractical<R> as mine...
+Would mind showing me if it's at least <R>sharp<R>?
